@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## M106 Math of Decision and Beauty Summer 2020
 
 You can use the [editor on GitHub](https://github.com/agoodlad-instructor-notes/m106-summer-2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
