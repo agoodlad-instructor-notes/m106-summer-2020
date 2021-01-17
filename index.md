@@ -4,7 +4,15 @@ During the summer of 2020, I was an assistant instructor for the Indiana Univers
 
 Here are my lecture notes for my M106 recitation lectures during this class.
 
-[Symmetries (6/9-6/12 lectures)](https://agoodlad-instructor-notes.github.io/m106-summer-2020/symmetries.pdf)
+-[Symmetries (6/9-6/12 lectures)](https://agoodlad-instructor-notes.github.io/m106-summer-2020/symmetries.pdf)
+
+-[Game Theory (6/13-6/24 lectures)](https://agoodlad-instructor-notes.github.io/m106-summer-2020/game-theory.pdf)
+
+-[Graph Theory (6/26-7/7 lectures)](https://agoodlad-instructor-notes.github.io/m106-summer-2020/graph-theory.pdf)
+
+-[Voting Theory (7/9-7/17 lectures)](https://agoodlad-instructor-notes.github.io/m106-summer-2020/voting-theory.pdf)
+
+-[Perspectives (7/21-7/28 lectures)](https://agoodlad-instructor-notes.github.io/m106-summer-2020/perspective.pdf)
 
 You can use the [editor on GitHub](https://github.com/agoodlad-instructor-notes/m106-summer-2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
